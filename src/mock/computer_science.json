@@ -1,0 +1,123 @@
+[
+    {
+      "question": "What does CPU stand for?",
+      "image": "https://thumbs.dreamstime.com/b/quiz-your-computer-screen-answer-choices-interesting-vector-illustration-147013945.jpg",
+      "options": ["Central Process Unit", "Central Processing Unit", "Computer Personal Unit", "Central Processor Utility"],
+      "correctAnswer": "Central Processing Unit"
+    },
+    {
+      "question": "Which data structure uses FIFO order?",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1000&q=80",
+      "options": ["Stack", "Queue", "Tree", "Graph"],
+      "correctAnswer": "Queue"
+    },
+    {
+      "question": "What does HTML stand for?",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1000&q=80",
+      "options": ["Hyper Trainer Marking Language", "HyperText Markup Language", "HyperText Machine Language", "None of the above"],
+      "correctAnswer": "HyperText Markup Language"
+    },
+    {
+      "question": "Which language is used for styling web pages?",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1000&q=80",
+      "options": ["HTML", "JQuery", "CSS", "XML"],
+      "correctAnswer": "CSS"
+    },
+    {
+      "question": "What is the output of 2 + '2' in JavaScript?",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1000&q=80",
+      "options": ["4", "22", "NaN", "Error"],
+      "correctAnswer": "22"
+    },
+    {
+      "question": "Which company developed the Java programming language?",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1000&q=80",
+      "options": ["Sun Microsystems", "Microsoft", "Apple", "IBM"],
+      "correctAnswer": "Sun Microsystems"
+    },
+    {
+      "question": "Which of the following is a NoSQL database?",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1000&q=80",
+      "options": ["MySQL", "PostgreSQL", "MongoDB", "Oracle"],
+      "correctAnswer": "MongoDB"
+    },
+    {
+      "question": "What does CSS stand for?",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1000&q=80",
+      "options": ["Creative Style Sheets", "Cascading Style Sheets", "Computer Style Sheets", "Colorful Style Sheets"],
+      "correctAnswer": "Cascading Style Sheets"
+    },
+    {
+      "question": "Which programming language is mainly used for iOS development?",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1000&q=80",
+      "options": ["Kotlin", "Swift", "Python", "Ruby"],
+      "correctAnswer": "Swift"
+    },
+    {
+      "question": "Which keyword is used to create a class in Java?",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1000&q=80",
+      "options": ["class", "Class", "define", "function"],
+      "correctAnswer": "class"
+    },
+    {
+      "question": "What is the time complexity of binary search?",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1000&q=80",
+      "options": ["O(n)", "O(log n)", "O(n log n)", "O(n^2)"],
+      "correctAnswer": "O(log n)"
+    },
+    {
+      "question": "Which protocol is used to send emails?",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1000&q=80",
+      "options": ["FTP", "HTTP", "SMTP", "SNMP"],
+      "correctAnswer": "SMTP"
+    },
+    {
+      "question": "Which one is a server-side language?",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1000&q=80",
+      "options": ["PHP", "HTML", "CSS", "XML"],
+      "correctAnswer": "PHP"
+    },
+    {
+      "question": "Which sorting algorithm is the fastest on average?",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1000&q=80",
+      "options": ["Bubble Sort", "Quick Sort", "Insertion Sort", "Selection Sort"],
+      "correctAnswer": "Quick Sort"
+    },
+    {
+      "question": "What is the full form of API?",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1000&q=80",
+      "options": ["Application Programming Interface", "Application Program Interface", "Applied Programming Interface", "App Protocol Interface"],
+      "correctAnswer": "Application Programming Interface"
+    },
+    {
+      "question": "What does SQL stand for?",
+      "image": "  https://thumbs.dreamstime.com/b/quiz-your-computer-screen-answer-choices-interesting-vector-illustration-147013945.jpg",
+      "options": ["Structured Query Language", "Structured Question Language", "Simple Query Language", "Sequential Query Language"],
+      "correctAnswer": "Structured Query Language"
+    },
+    {
+      "question": "Which of these is a logic gate?",
+      "image": "https://thumbs.dreamstime.com/b/quiz-your-computer-screen-answer-choices-interesting-vector-illustration-147013945.jpg",
+      "options": ["AND", "SUM", "MULT", "DIV"],
+      "correctAnswer": "AND"
+    },
+    {
+      "question": "What is polymorphism in OOP?",
+      "image": "https://thumbs.dreamstime.com/b/quiz-your-computer-screen-answer-choices-interesting-vector-illustration-147013945.jpg",
+      "options": ["Ability to inherit", "Ability to override", "Ability to take many forms", "Ability to encapsulate data"],
+      "correctAnswer": "Ability to take many forms"
+    },
+    {
+      "question": "Which memory is non-volatile?",
+      "image": "https://thumbs.dreamstime.com/b/quiz-your-computer-screen-answer-choices-interesting-vector-illustration-147013945.jpg",
+      "options": ["RAM", "Cache", "ROM", "Registers"],
+      "correctAnswer": "ROM"
+    },
+    {
+      "question": "What does DNS stand for in networking?",
+      "image": "https://thumbs.dreamstime.com/b/quiz-your-computer-screen-answer-choices-interesting-vector-illustration-147013945.jpg",
+      "options": ["Domain Name System", "Dynamic Network System", "Domain Network Service", "Digital Name Server"],
+      "correctAnswer": "Domain Name System"
+    }
+  ]
+  

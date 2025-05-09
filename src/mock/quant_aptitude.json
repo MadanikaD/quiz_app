@@ -1,0 +1,123 @@
+[
+    {
+      "question": "What is 25% of 200?",
+      "image": "https://images.unsplash.com/photo-1559027615-cdcb4bcf4d58?auto=format&fit=crop&w=1000&q=80",
+      "options": ["25", "50", "75", "100"],
+      "correctAnswer": "50"
+    },
+    {
+      "question": "If the selling price is Rs. 400 and profit is 25%, what is the cost price?",
+      "image": "https://images.unsplash.com/photo-1559027615-cdcb4bcf4d58?auto=format&fit=crop&w=1000&q=80",
+      "options": ["Rs. 300", "Rs. 320", "Rs. 350", "Rs. 380"],
+      "correctAnswer": "Rs. 320"
+    },
+    {
+      "question": "The average of first five prime numbers is:",
+      "image": "https://images.unsplash.com/photo-1559027615-cdcb4bcf4d58?auto=format&fit=crop&w=1000&q=80",
+      "options": ["4.4", "5.2", "3.6", "6.0"],
+      "correctAnswer": "4.4"
+    },
+    {
+      "question": "A train 120 m long passes a pole in 6 seconds. Find its speed.",
+      "image": "https://images.unsplash.com/photo-1559027615-cdcb4bcf4d58?auto=format&fit=crop&w=1000&q=80",
+      "options": ["60 km/h", "72 km/h", "80 km/h", "90 km/h"],
+      "correctAnswer": "72 km/h"
+    },
+    {
+      "question": "What is the simple interest on Rs. 1000 at 5% per annum in 2 years?",
+      "image": "https://images.unsplash.com/photo-1559027615-cdcb4bcf4d58?auto=format&fit=crop&w=1000&q=80",
+      "options": ["Rs. 50", "Rs. 100", "Rs. 150", "Rs. 200"],
+      "correctAnswer": "Rs. 100"
+    },
+    {
+      "question": "If a person earns Rs. 2400 in 6 days, how much will he earn in 9 days?",
+      "image": "https://images.unsplash.com/photo-1559027615-cdcb4bcf4d58?auto=format&fit=crop&w=1000&q=80",
+      "options": ["Rs. 3000", "Rs. 3600", "Rs. 3200", "Rs. 4000"],
+      "correctAnswer": "Rs. 3600"
+    },
+    {
+      "question": "A can do a piece of work in 10 days. B can do the same work in 15 days. Together, they will complete it in:",
+      "image": "https://images.unsplash.com/photo-1559027615-cdcb4bcf4d58?auto=format&fit=crop&w=1000&q=80",
+      "options": ["5 days", "6 days", "8 days", "10 days"],
+      "correctAnswer": "6 days"
+    },
+    {
+      "question": "What is the compound interest on Rs. 5000 for 2 years at 10% per annum?",
+      "image": "https://images.unsplash.com/photo-1559027615-cdcb4bcf4d58?auto=format&fit=crop&w=1000&q=80",
+      "options": ["Rs. 1000", "Rs. 1050", "Rs. 1100", "Rs. 1150"],
+      "correctAnswer": "Rs. 1050"
+    },
+    {
+      "question": "A sum of money is divided among A, B, and C in the ratio 2:3:5. If the total is Rs. 1000, what is C’s share?",
+      "image": "https://images.unsplash.com/photo-1559027615-cdcb4bcf4d58?auto=format&fit=crop&w=1000&q=80",
+      "options": ["Rs. 200", "Rs. 300", "Rs. 500", "Rs. 600"],
+      "correctAnswer": "Rs. 500"
+    },
+    {
+      "question": "What is the least common multiple (LCM) of 12 and 18?",
+      "image": "https://images.unsplash.com/photo-1559027615-cdcb4bcf4d58?auto=format&fit=crop&w=1000&q=80",
+      "options": ["36", "54", "72", "90"],
+      "correctAnswer": "36"
+    },
+    {
+      "question": "A shopkeeper allows 10% discount on marked price and still gains 20%. If cost price is Rs. 180, marked price is:",
+      "image": "https://images.unsplash.com/photo-1559027615-cdcb4bcf4d58?auto=format&fit=crop&w=1000&q=80",
+      "options": ["Rs. 240", "Rs. 250", "Rs. 260", "Rs. 270"],
+      "correctAnswer": "Rs. 250"
+    },
+    {
+      "question": "If 12 men can complete a work in 8 days, how many days will 16 men take?",
+      "image": "https://images.unsplash.com/photo-1559027615-cdcb4bcf4d58?auto=format&fit=crop&w=1000&q=80",
+      "options": ["5", "6", "7", "8"],
+      "correctAnswer": "6"
+    },
+    {
+      "question": "The sum of the first 10 natural numbers is:",
+      "image": "https://images.unsplash.com/photo-1559027615-cdcb4bcf4d58?auto=format&fit=crop&w=1000&q=80",
+      "options": ["45", "50", "55", "60"],
+      "correctAnswer": "55"
+    },
+    {
+      "question": "What is the square root of 625?",
+      "image": "https://images.unsplash.com/photo-1559027615-cdcb4bcf4d58?auto=format&fit=crop&w=1000&q=80",
+      "options": ["20", "25", "30", "35"],
+      "correctAnswer": "25"
+    },
+    {
+      "question": "A man buys an article for Rs. 300 and sells it at a loss of 15%. What is the selling price?",
+      "image": "https://images.unsplash.com/photo-1559027615-cdcb4bcf4d58?auto=format&fit=crop&w=1000&q=80",
+      "options": ["Rs. 255", "Rs. 260", "Rs. 265", "Rs. 270"],
+      "correctAnswer": "Rs. 255"
+    },
+    {
+      "question": "What is the HCF of 60 and 90?",
+      "image": "https://images.unsplash.com/photo-1559027615-cdcb4bcf4d58?auto=format&fit=crop&w=1000&q=80",
+      "options": ["10", "15", "20", "30"],
+      "correctAnswer": "30"
+    },
+    {
+      "question": "How many 5-digit numbers can be formed using digits 1 to 5 without repetition?",
+      "image": "https://images.unsplash.com/photo-1559027615-cdcb4bcf4d58?auto=format&fit=crop&w=1000&q=80",
+      "options": ["60", "120", "240", "720"],
+      "correctAnswer": "120"
+    },
+    {
+      "question": "If A:B = 2:3 and B:C = 4:5, what is A:C?",
+      "image": "https://images.unsplash.com/photo-1559027615-cdcb4bcf4d58?auto=format&fit=crop&w=1000&q=80",
+      "options": ["8:15", "2:5", "3:5", "5:8"],
+      "correctAnswer": "8:15"
+    },
+    {
+      "question": "What will be the population after 2 years if it increases by 10% annually from 10000?",
+      "image": "https://images.unsplash.com/photo-1559027615-cdcb4bcf4d58?auto=format&fit=crop&w=1000&q=80",
+      "options": ["11000", "12100", "12000", "12500"],
+      "correctAnswer": "12100"
+    },
+    {
+      "question": "If 40% of a number is 60, what is the number?",
+      "image": "https://images.unsplash.com/photo-1559027615-cdcb4bcf4d58?auto=format&fit=crop&w=1000&q=80",
+      "options": ["120", "140", "150", "160"],
+      "correctAnswer": "150"
+    }
+  ]
+  

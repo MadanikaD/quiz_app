@@ -1,0 +1,123 @@
+[
+    {
+      "question": "What comes next in the series: 2, 4, 8, 16, ?",
+      "image": "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/98/02/ae/9802aed8-8c94-3ad5-4508-0a06d05185c3/source/512x512bb.jpg",
+      "options": ["18", "24", "30", "32"],
+      "correctAnswer": "32"
+    },
+    {
+      "question": "If A is the son of B, and B is the daughter of C, how is C related to A?",
+      "image": "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/98/02/ae/9802aed8-8c94-3ad5-4508-0a06d05185c3/source/512x512bb.jpg",
+      "options": ["Mother", "Grandmother", "Sister", "Aunt"],
+      "correctAnswer": "Grandmother"
+    },
+    {
+      "question": "Which number does not belong in the series? 3, 5, 11, 14, 17, 21",
+      "image": "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/98/02/ae/9802aed8-8c94-3ad5-4508-0a06d05185c3/source/512x512bb.jpg",
+      "options": ["5", "11", "14", "21"],
+      "correctAnswer": "14"
+    },
+    {
+      "question": "If in a code, TREE is written as USFF, how is LEAF written?",
+      "image": "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/98/02/ae/9802aed8-8c94-3ad5-4508-0a06d05185c3/source/512x512bb.jpg",
+      "options": ["MFBG", "KDBE", "MFAG", "MEBG"],
+      "correctAnswer": "MFBG"
+    },
+    {
+      "question": "John is taller than Alice, but shorter than Mike. Alice is taller than Tom. Who is the shortest?",
+      "image": "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/98/02/ae/9802aed8-8c94-3ad5-4508-0a06d05185c3/source/512x512bb.jpg",
+      "options": ["Mike", "Alice", "Tom", "John"],
+      "correctAnswer": "Tom"
+    },
+    {
+      "question": "Find the odd one out: Apple, Mango, Orange, Carrot",
+      "image": "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/98/02/ae/9802aed8-8c94-3ad5-4508-0a06d05185c3/source/512x512bb.jpg",
+      "options": ["Apple", "Mango", "Orange", "Carrot"],
+      "correctAnswer": "Carrot"
+    },
+    {
+      "question": "A man walks 5 km north, then 3 km east, then 5 km south. How far is he from the starting point?",
+      "image": "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/98/02/ae/9802aed8-8c94-3ad5-4508-0a06d05185c3/source/512x512bb.jpg",
+      "options": ["3 km", "5 km", "6 km", "8 km"],
+      "correctAnswer": "3 km"
+    },
+    {
+      "question": "If 1 = 5, 2 = 25, 3 = 325, what is 4?",
+      "image": "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/98/02/ae/9802aed8-8c94-3ad5-4508-0a06d05185c3/source/512x512bb.jpg",
+      "options": ["4325", "432", "43", "None of these"],
+      "correctAnswer": "4325"
+    },
+    {
+      "question": "Which word cannot be formed from the word 'COMPUTER'?",
+      "image": "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/98/02/ae/9802aed8-8c94-3ad5-4508-0a06d05185c3/source/512x512bb.jpg",
+      "options": ["COMET", "TERM", "CURE", "MOTOR"],
+      "correctAnswer": "MOTOR"
+    },
+    {
+      "question": "Syllogism: All cats are animals. Some animals are dogs. Conclusion: Some cats are dogs. Is this valid?",
+      "image": "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/98/02/ae/9802aed8-8c94-3ad5-4508-0a06d05185c3/source/512x512bb.jpg",
+      "options": ["Yes", "No", "Maybe", "Can't be determined"],
+      "correctAnswer": "Can't be determined"
+    },
+    {
+      "question": "If CLOCK is coded as DMPDL, how is WATCH coded?",
+      "image": "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/98/02/ae/9802aed8-8c94-3ad5-4508-0a06d05185c3/source/512x512bb.jpg",
+      "options": ["XBUCI", "XBUCH", "XBVCH", "XBUCJ"],
+      "correctAnswer": "XBUCH"
+    },
+    {
+      "question": "In a certain code, PAPER is written as QBQFS. How is PEN written?",
+      "image": "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/98/02/ae/9802aed8-8c94-3ad5-4508-0a06d05185c3/source/512x512bb.jpg",
+      "options": ["QFO", "QEQ", "QEP", "QEN"],
+      "correctAnswer": "QFO"
+    },
+    {
+      "question": "Find the missing term: 1, 4, 9, 16, ?, 36",
+      "image": "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/98/02/ae/9802aed8-8c94-3ad5-4508-0a06d05185c3/source/512x512bb.jpg",
+      "options": ["20", "24", "25", "30"],
+      "correctAnswer": "25"
+    },
+    {
+      "question": "Which number should come next? 31, 29, 24, 22, 17, ?",
+      "image": "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/98/02/ae/9802aed8-8c94-3ad5-4508-0a06d05185c3/source/512x512bb.jpg",
+      "options": ["15", "13", "12", "10"],
+      "correctAnswer": "10"
+    },
+    {
+      "question": "Choose the odd pair: (2, 4), (3, 6), (4, 8), (5, 11)",
+      "image": "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/98/02/ae/9802aed8-8c94-3ad5-4508-0a06d05185c3/source/512x512bb.jpg",
+      "options": ["(2, 4)", "(3, 6)", "(4, 8)", "(5, 11)"],
+      "correctAnswer": "(5, 11)"
+    },
+    {
+      "question": "Which direction is opposite to Southwest?",
+      "image": "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/98/02/ae/9802aed8-8c94-3ad5-4508-0a06d05185c3/source/512x512bb.jpg",
+      "options": ["North", "Northeast", "Southeast", "Northwest"],
+      "correctAnswer": "Northeast"
+    },
+    {
+      "question": "If John's mother is the only daughter of Peter's father, how is Peter related to John?",
+      "image": "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/98/02/ae/9802aed8-8c94-3ad5-4508-0a06d05185c3/source/512x512bb.jpg",
+      "options": ["Uncle", "Brother", "Father", "Grandfather"],
+      "correctAnswer": "Uncle"
+    },
+    {
+      "question": "Which number completes the pattern: 2, 6, 12, 20, ?",
+      "image": "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/98/02/ae/9802aed8-8c94-3ad5-4508-0a06d05185c3/source/512x512bb.jpg",
+      "options": ["30", "24", "28", "26"],
+      "correctAnswer": "30"
+    },
+    {
+      "question": "Which Venn diagram fits the relationship: Doctor, Surgeon, Human?",
+      "image": "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/98/02/ae/9802aed8-8c94-3ad5-4508-0a06d05185c3/source/512x512bb.jpg",
+      "options": ["All circles separate", "Surgeon inside Doctor inside Human", "Doctor and Surgeon overlap with Human", "All the same"],
+      "correctAnswer": "Surgeon inside Doctor inside Human"
+    },
+    {
+      "question": "If TABLE is written as GZOVY, how is CHAIR written?",
+      "image": "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/98/02/ae/9802aed8-8c94-3ad5-4508-0a06d05185c3/source/512x512bb.jpg",
+      "options": ["XUZNV", "XVZNV", "XUZNW", "XZUNV"],
+      "correctAnswer": "XUZNV"
+    }
+  ]
+  
