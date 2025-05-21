@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the capital of Australia?",
+    "options": ["Canberra", "Sydney", "Melbourne", "Perth"],
+    "correctAnswer": "Canberra"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Mars", "Jupiter", "Venus", "Saturn"],
+    "correctAnswer": "Mars"
+  },
+  {
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "options": ["William Wordsworth", "William Shakespeare", "John Keats", "Charles Dickens"],
+    "correctAnswer": "William Shakespeare"
+  },
+  {
+    "question": "What is the largest ocean on Earth?",
+    "options": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Arctic Ocean"],
+    "correctAnswer": "Pacific Ocean"
+  },
+  {
+    "question": "How many continents are there?",
+    "options": ["5", "6", "7", "8"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Which gas do plants absorb from the atmosphere?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Helium"],
+    "correctAnswer": "Carbon Dioxide"
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "options": ["Gold", "Iron", "Diamond", "Quartz"],
+    "correctAnswer": "Diamond"
+  },
+  {
+    "question": "Which country is famous for the Great Wall?",
+    "options": ["India", "China", "Japan", "South Korea"],
+    "correctAnswer": "China"
+  },
+  {
+    "question": "What is the human body's largest organ?",
+    "options": ["Heart", "Liver", "Skin", "Lungs"],
+    "correctAnswer": "Skin"
+  },
+  {
+    "question": "Which element has the chemical symbol 'O'?",
+    "options": ["Osmium", "Oxygen", "Ozone", "Oxide"],
+    "correctAnswer": "Oxygen"
+  },
+  {
+    "question": "Which language is the most widely spoken in the world?",
+    "options": ["English", "Spanish", "Mandarin", "Hindi"],
+    "correctAnswer": "Mandarin"
+  },
+  {
+    "question": "What is the square root of 64?",
+    "options": ["6", "7", "8", "9"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": ["Leonardo da Vinci", "Pablo Picasso", "Michelangelo", "Van Gogh"],
+    "correctAnswer": "Leonardo da Vinci"
+  },
+  {
+    "question": "Which planet is closest to the sun?",
+    "options": ["Venus", "Mercury", "Earth", "Mars"],
+    "correctAnswer": "Mercury"
+  },
+  {
+    "question": "What is H2O commonly known as?",
+    "options": ["Salt", "Hydrogen", "Water", "Oxygen"],
+    "correctAnswer": "Water"
+  },
+  {
+    "question": "Who is the current UN Secretary-General? (as of 2024)",
+    "options": ["Antonio Guterres", "Ban Ki-moon", "Kofi Annan", "Tedros Ghebreyesus"],
+    "correctAnswer": "Antonio Guterres"
+  },
+  {
+    "question": "Which instrument measures earthquakes?",
+    "options": ["Barometer", "Thermometer", "Seismograph", "Altimeter"],
+    "correctAnswer": "Seismograph"
+  },
+  {
+    "question": "How many bones are there in the adult human body?",
+    "options": ["206", "201", "208", "210"],
+    "correctAnswer": "206"
+  },
+  {
+    "question": "What is the tallest mountain in the world?",
+    "options": ["K2", "Mount Everest", "Kangchenjunga", "Makalu"],
+    "correctAnswer": "Mount Everest"
+  },
+  {
+    "question": "Which animal is known as the King of the Jungle?",
+    "options": ["Tiger", "Elephant", "Lion", "Giraffe"],
+    "correctAnswer": "Lion"
+  }
+]
